@@ -1,0 +1,12 @@
+{
+  "manifest_version": 2,
+  "name": "Automatic redirect",
+  "version": "1.0",
+  "description": "Automatically redirect from some urls or subpaths to other pages",
+  "permissions": ["webNavigation"],
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  },
+  "content_scripts": []
+}
