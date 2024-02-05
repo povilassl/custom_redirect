@@ -1,0 +1,14 @@
+{
+    "redirect_from": [
+        "https://www.reddit.com/",
+        "https://www.reddit.com/r/memes/"
+    ],
+    "wiki_redirect_to": "https://en.wikipedia.org/wiki/Special:Random",
+    "facebook_redirect_from": "https://www.facebook.com/",
+    "facebook_redirect_to": "https://www.facebook.com/messages/",
+    "freedium_redirect_from": [
+        "https://medium.com/",
+        "https://towardsdatascience.com/"
+    ],
+    "freedium_redirect_to": "https://freedium.cfd/"
+}
