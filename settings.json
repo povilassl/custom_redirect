@@ -1,14 +1,11 @@
 {
-    "redirect_from": [
-        "https://www.reddit.com/",
-        "https://www.reddit.com/r/memes/"
-    ],
-    "wiki_redirect_to": "https://en.wikipedia.org/wiki/Special:Random",
-    "facebook_redirect_from": "https://www.facebook.com/",
-    "facebook_redirect_to": "https://www.facebook.com/messages/",
-    "freedium_redirect_from": [
-        "https://medium.com/",
-        "https://towardsdatascience.com/"
-    ],
-    "freedium_redirect_to": "https://freedium.cfd/"
+  "full_redirect": {
+    "www.reddit.com": "https://en.wikipedia.org/wiki/Special:Random",
+    "www.facebook.com": "https://www.facebook.com/messages/"
+  },
+
+  "partial_redirect": {
+    "www.medium.com": "https://freedium.cfd",
+    "www.towardsdatascience.com": "https://freedium.cfd"
+  }
 }
